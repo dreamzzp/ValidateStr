@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ValidateStr"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "all kinds of categories for iOS develop"
   s.description  = <<-DESC
                       this project provide all kinds of categories for iOS developer 
